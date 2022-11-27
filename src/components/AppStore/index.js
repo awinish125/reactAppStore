@@ -12,7 +12,7 @@ const tabsList = [
 const appsList = [
   {
     appId: 0,
-    appName: 'Facebook',
+    appName: 'Facebookk',
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/app-store/social-facebook.png',
     category: 'SOCIAL',
